@@ -1,7 +1,7 @@
 with( HLight ) lang.code_sign= FCached
 (	FPipe
 	(   lang.text
-	,	TagWrapper( 'i:hlight-code-sign' )
+	,	TagWrapper( 'std:hlight-code-sign' )
 	)
 )
 
